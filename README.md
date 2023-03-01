@@ -1,6 +1,11 @@
-### NOTE this is a fork of the original ESPKEY by octosavvi
+# NOTE this is a fork of the original ESPKEY by octosavvi
 
-this fork is based on the original espkey by [octosavvi here](https://github.com/octosavvi/ESPKey/releases/latest), however the original hasn't been updated in quite some time which is why I've decided to fork the original and update portions to enable you to order your own from a pcb house instead of purchasing a premade unit
+This fork is based on the original espkey by [octosavvi here](https://github.com/octosavvi/ESPKey/releases/latest), however the original hasn't been updated in quite some time which is why I've decided to fork the original and update portions to enable you to order your own from a pcb house instead of purchasing a premade unit.
+Bill of materials and ordering information is located in the [hardware](https://github.com/bobbienet/ESPKey/tree/master/hardware) subdirectory. 
+
+## Example of a small batch
+
+<img src="https://github.com/bobbienet/ESPKey/blob/master/images/dime4scale.png" alt=pads width="568"/>
 
 ### Purchasing units
 Redteam tools sells the original espkey [here](https://redteamtools.com/espkey) and the cost of a single unit is cheaper than ordering a small run yourself, however if you wish to purchase more than one unit then it may be cheaper to instead [build them yourself](hardware/) (or through a pcb manufacturer) for anything more than a single unit
