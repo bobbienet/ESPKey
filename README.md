@@ -1,3 +1,10 @@
+### NOTE this is a fork of the original ESPKEY by octosavvi
+
+this fork is based on the original espkey by [octosavvi here](https://github.com/octosavvi/ESPKey/releases/latest), however the original hasn't been updated in quite some time which is why I've decided to fork the original and update portions to enable you to order your own from a pcb house instead of purchasing a premade unit
+
+### Purchasing units
+Redteam tools sells the original espkey [here](https://redteamtools.com/espkey) and the cost of a single unit is cheaper than ordering a small run yourself, however if you wish to purchase more than one unit then it may be cheaper to instead [build them yourself](hardware/) (or through a pcb manufacturer) for anything more than a single unit
+
 ### What the heck is this anyway?
 ESPKey is a small device which can be implanted into facility access control systems.  ESPKey is compatible with pretty much every door that requires a card swipe or tap with optional pin code to unlock.  It even works on many systems requiring finger print or other biometric authentication.  Inserting an ESPKey behind a card reader is better than a skimmer because not only can it log all authorized use of a system, it can also inject or replay captured credentials.  Once ESPKey shows you what credentials work on this door, use your favorite RFID tools to clone or simulate those credentials for use on other doors.  Want to show someone how insecure their facility is?  This is an incredibly easy way to start.
 
